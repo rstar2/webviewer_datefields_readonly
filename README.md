@@ -11,3 +11,5 @@ npm install
 ```bash
 npm run serve
 ```
+
+> Currently the "bug" is on, to see a patch just go to WebViewer.vue and change the 'showBug' variable to 'false'
